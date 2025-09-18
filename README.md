@@ -68,8 +68,9 @@ Power BI · Tableau · Matplotlib · Seaborn
 
 ## 📄 Resume / CV
 
-[View Data Analyst CV]([https://drive.google.com/your-data-analyst-link](https://drive.google.com/file/d/1PfjW1TFlTpFYqtlqUkOKM83x0LwoScY7/view?usp=drive_link))  
-[View No-Code Automation CV]([https://drive.google.com/your-nocode-link](https://drive.google.com/file/d/1nWncqziviGbRI44SBQXUpr1iShr8tqWy/view?usp=drive_link))
+[![Data Analyst CV](https://img.shields.io/badge/Data%20Analyst%20CV-View-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1PfjW1TFlTpFYqtlqUkOKM83x0LwoScY7/view?usp=drive_link)
+
+[![No-Code Automation CV](https://img.shields.io/badge/No--Code%20Automation%20CV-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1nWncqziviGbRI44SBQXUpr1iShr8tqWy/view?usp=drive_link)
 
 
 ---

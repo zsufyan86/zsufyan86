@@ -68,8 +68,9 @@ Power BI · Tableau · Matplotlib · Seaborn
 
 ## 📄 Resume / CV
 
-[![Open CV](https://img.shields.io/badge/Resume-PDF-black?logo=adobeacrobatreader)](./Sufyan-CV-Automation.pdf)
-[![Download](https://img.shields.io/badge/Download-Direct-blue)](./Sufyan-CV-Automation.pdf)
+[View Data Analyst CV]([https://drive.google.com/your-data-analyst-link](https://drive.google.com/file/d/1PfjW1TFlTpFYqtlqUkOKM83x0LwoScY7/view?usp=drive_link))  
+[View No-Code Automation CV]([https://drive.google.com/your-nocode-link](https://drive.google.com/file/d/1nWncqziviGbRI44SBQXUpr1iShr8tqWy/view?usp=drive_link))
+
 
 ---
 
